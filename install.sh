@@ -1187,7 +1187,7 @@
     echo
     echo
     echo -e "$GREEN***************************$COL_RESET"
-    echo -e "$GREEN Yiimp Install Script v0.2 $COL_RESET"
+    echo -e "$GREEN Yiimp Install Script 2022 $COL_RESET"
     echo -e "$GREEN Finish !!! $COL_RESET"
     echo -e "$GREEN***************************$COL_RESET"
     echo 
@@ -1206,9 +1206,20 @@
     echo -e "$CYAN Please make sure to change your public keys / wallet addresses in the /var/web/serverconfig.php file. $COL_RESET"
     echo -e "$CYAN Please make sure to change your private keys in the /etc/yiimp/keys.php file. $COL_RESET"
     echo
-    echo -e "$CYAN TUTO Youtube : https://www.youtube.com/watch?v=qE0rhfJ1g2k $COL_RESET"
-    echo -e "$CYAN Xavatar WebSite : https://www.xavatar.com $COL_RESET"
+    echo -e "$CYAN Youtube : https://youtu.be/V1DCN5IP8bo $COL_RESET"
     echo
+    echo
+	echo -e "$GREEN***************************************************$COL_RESET"
+    echo -e "$GREEN DONATION $COL_RESET"
+	echo -e "$GREEN BTC  : 1NQ46aP2wgotA9dJs4U8jBv4a1cR9qF8DA$COL_RESET"
+	echo -e "$GREEN ETH  : 0x0a61ec3546ff49bd3b9cb6a5d08397fb32ba1b91$COL_RESET"
+	echo -e "$GREEN LTC  : LWxo5EXMJnrYGokcjC4K3RJ3sEcwCTGrw8$COL_RESET"
+	echo -e "$GREEN DOGE : DK8oQXVSsXCTu6vRhiAn8waF3v3hVsNg9G$COL_RESET"
+	echo -e "$GREEN TRX  : TMdaz1ZSRQACYaVZMAC4F6nsQsuYXz54Hc$COL_RESET"
+	echo -e "$GREEN TRC20 USDT  : TMdaz1ZSRQACYaVZMAC4F6nsQsuYXz54Hc$COL_RESET"
+	echo -e "$GREEN ERC20/BEP20 USDT  : 0x0a61ec3546ff49bd3b9cb6a5d08397fb32ba1b91$COL_RESET"
+    echo -e "$GREEN***************************************************$COL_RESET"
+	echo
     echo
     echo -e "$RED***************************************************$COL_RESET"
     echo -e "$RED YOU MUST REBOOT NOW  TO FINALIZE INSTALLATION !!! $COL_RESET"
